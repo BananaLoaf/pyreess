@@ -1,0 +1,10 @@
+
+\.idea/
+
+template\.egg-info/
+
+template/__pycache__/
+
+dist/
+
+build/
