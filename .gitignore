@@ -3,8 +3,10 @@
 
 template\.egg-info/
 
-template/__pycache__/
+pyreess/__pycache__/
 
 dist/
 
 build/
+
+pyreess.egg-info/
