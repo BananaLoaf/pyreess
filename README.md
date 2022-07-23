@@ -1,8 +1,6 @@
 # py-reess 
 
-CLI application for deterministic password generation and recall
-
-Failing to **REE**call your pa**SS**word? Try **py-REESS**!
+CLI application for deterministic password generation
 
 [![Python Version](https://img.shields.io/pypi/pyversions/pyreess.svg?color=yellow&style=flat-square)](https://www.python.org/downloads/)
 [![GitHub Licence](https://img.shields.io/github/license/BananaLoaf/pyreess.svg?color=blue&style=flat-square)](https://github.com/BananaLoaf/pyreess/blob/master/LICENSE)
